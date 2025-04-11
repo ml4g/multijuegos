@@ -10,6 +10,6 @@ public class HomeController {
 
     @GetMapping
     public String home() {
-        return "¡Hola mundo! CI/CD Listo... Jenkins lee hooks - TEST 02 !!!";
+        return "¡Hola mundo! CI/CD Listo... Jenkins lee hooks - TEST 03 !!!";
     }
 }
